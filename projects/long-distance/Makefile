@@ -1,4 +1,4 @@
-all: 2019.csv
+all: 2014.csv 2015.csv 2016.csv 2017.csv 2018.csv 2019.csv
 %.csv: ../../data/ted/ted-can-%.csv
 	cat $< | \
 	csvgrep -d, -c ISO_COUNTRY_CODE -r "(EE|LT|LV)" | \
