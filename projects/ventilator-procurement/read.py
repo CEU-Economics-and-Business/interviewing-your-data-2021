@@ -15,7 +15,7 @@ fields = {
 	}
 
 def list_of_xmls():
-	return glob.glob('*.xml')
+	return glob.glob('xml/*.xml')
 
 def parse(fn):
 	output = {}
