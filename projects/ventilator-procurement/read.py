@@ -10,14 +10,14 @@ fields = {
 	'buyer_name': '//ted:CONTRACTING_BODY//ted:OFFICIALNAME//text()',
 	'buyer_address': '//ted:CONTRACTING_BODY//ted:ADDRESS//text()',
 	'buyer_town': '//ted:CONTRACTING_BODY//ted:TOWN//text()',
-	'buyer_country': '//ted:CONTRACTING_BODY//ted:COUNTRY//text()',
+	'buyer_country': '//ted:CONTRACTING_BODY//ted:COUNTRY/@VALUE',
 	'cpv': '//ted:CPV_MAIN/ted:CPV_CODE/@CODE',
 	'amount': '//ted:VALUES/ted:VALUE[@TYPE="PROCUREMENT_TOTAL"]',
 	'currency': '//ted:VALUES/ted:VALUE[@TYPE="PROCUREMENT_TOTAL"]/@CURRENCY',
 	'contractor_name': '//ted:CONTRACTOR//ted:OFFICIALNAME//text()',
 	'contractor_address': '//ted:CONTRACTOR//ted:ADDRESS//text()',
 	'contractor_town': '//ted:CONTRACTOR//ted:TOWN//text()',
-	'contractor_country': '//ted:CONTRACTOR//ted:COUNTRY//text()',
+	'contractor_country': '//ted:CONTRACTOR//ted:COUNTRY/@VALUE',
 }
 
 def list_of_xmls():
