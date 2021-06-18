@@ -1,0 +1,247 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "ID_TYPE",
+    "description": "Remove column ID_TYPE"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "DT_DISPATCH",
+    "description": "Remove column DT_DISPATCH"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "XSD_VERSION",
+    "description": "Remove column XSD_VERSION"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CANCELLED",
+    "description": "Remove column CANCELLED"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CORRECTIONS",
+    "description": "Remove column CORRECTIONS"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_MULTIPLE_CAE",
+    "description": "Remove column B_MULTIPLE_CAE"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CAE_NATIONALID",
+    "description": "Remove column CAE_NATIONALID"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CAE_GPA_ANNEX",
+    "description": "Remove column CAE_GPA_ANNEX"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ISO_COUNTRY_CODE_GPA",
+    "description": "Remove column ISO_COUNTRY_CODE_GPA"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_MULTIPLE_COUNTRY",
+    "description": "Remove column B_MULTIPLE_COUNTRY"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ISO_COUNTRY_CODE_ALL",
+    "description": "Remove column ISO_COUNTRY_CODE_ALL"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CAE_TYPE",
+    "description": "Remove column CAE_TYPE"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "EU_INST_CODE",
+    "description": "Remove column EU_INST_CODE"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_ON_BEHALF",
+    "description": "Remove column B_ON_BEHALF"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_INVOLVES_JOINT_PROCUREMENT",
+    "description": "Remove column B_INVOLVES_JOINT_PROCUREMENT"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_AWARDED_BY_CENTRAL_BODY",
+    "description": "Remove column B_AWARDED_BY_CENTRAL_BODY"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "TYPE_OF_CONTRACT",
+    "description": "Remove column TYPE_OF_CONTRACT"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "TAL_LOCATION_NUTS",
+    "description": "Remove column TAL_LOCATION_NUTS"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_FRA_AGREEMENT",
+    "description": "Remove column B_FRA_AGREEMENT"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "FRA_ESTIMATED",
+    "description": "Remove column FRA_ESTIMATED"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_FRA_CONTRACT",
+    "description": "Remove column B_FRA_CONTRACT"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_DYN_PURCH_SYST",
+    "description": "Remove column B_DYN_PURCH_SYST"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "MAIN_CPV_CODE_GPA",
+    "description": "Remove column MAIN_CPV_CODE_GPA"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ID_LOT",
+    "description": "Remove column ID_LOT"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_GPA",
+    "description": "Remove column B_GPA"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "GPA_COVERAGE",
+    "description": "Remove column GPA_COVERAGE"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "LOTS_NUMBER",
+    "description": "Remove column LOTS_NUMBER"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "VALUE_EURO",
+    "description": "Remove column VALUE_EURO"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_EU_FUNDS",
+    "description": "Remove column B_EU_FUNDS"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "TOP_TYPE",
+    "description": "Remove column TOP_TYPE"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_ACCELERATED",
+    "description": "Remove column B_ACCELERATED"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "OUT_OF_DIRECTIVES",
+    "description": "Remove column OUT_OF_DIRECTIVES"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CRIT_CODE",
+    "description": "Remove column CRIT_CODE"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CRIT_PRICE_WEIGHT",
+    "description": "Remove column CRIT_PRICE_WEIGHT"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CRIT_CRITERIA",
+    "description": "Remove column CRIT_CRITERIA"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CRIT_WEIGHTS",
+    "description": "Remove column CRIT_WEIGHTS"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_ELECTRONIC_AUCTION",
+    "description": "Remove column B_ELECTRONIC_AUCTION"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "NUMBER_AWARDS",
+    "description": "Remove column NUMBER_AWARDS"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ID_AWARD",
+    "description": "Remove column ID_AWARD"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ID_LOT_AWARDED",
+    "description": "Remove column ID_LOT_AWARDED"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_AWARDED_TO_A_GROUP",
+    "description": "Remove column B_AWARDED_TO_A_GROUP"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "WIN_NATIONALID",
+    "description": "Remove column WIN_NATIONALID"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "B_CONTRACTOR_SME",
+    "description": "Remove column B_CONTRACTOR_SME"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CONTRACT_NUMBER",
+    "description": "Remove column CONTRACT_NUMBER"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "NUMBER_TENDERS_SME",
+    "description": "Remove column NUMBER_TENDERS_SME"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "NUMBER_TENDERS_OTHER_EU",
+    "description": "Remove column NUMBER_TENDERS_OTHER_EU"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "NUMBER_TENDERS_NON_EU",
+    "description": "Remove column NUMBER_TENDERS_NON_EU"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "NUMBER_OFFERS_ELECTR",
+    "description": "Remove column NUMBER_OFFERS_ELECTR"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "AWARD_VALUE_EURO",
+    "description": "Remove column AWARD_VALUE_EURO"
+  }
+]
